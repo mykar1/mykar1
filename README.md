@@ -7,14 +7,6 @@ Goals: CompTIA A+ certificate, Deskside Support/Helpdesk Job, System Admin Job
 Why I do it?: I love helping other people, especially with computers.
 
 L O V E  E V E R Y B O D Y !
-      _.-'''''-._
-    .'  _     _  '.
-   /   (_)   (_)   \
-  |  ,           ,  |
-  |  \`.       .`/  |
-   \  '.`'""'"`.'  /
-    '.  `'---'`  .'
-      '-._____.-'
 
 <!--
 **mykar1/mykar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

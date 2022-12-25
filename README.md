@@ -1,6 +1,6 @@
 echo "Hello World"
 
-My name is Michael Hickey and I'm an english major attending Saint Francis University in Loretto, PA. I've always enjoyed using computers and recently started practicing coding. I'm a beginner, learning the fundamentals of Java, Python, and Shell.
+My name is mykar1. I've always enjoyed using computers and recently started practicing coding. I'm a beginner, learning the fundamentals of Java, Python, and Shell.
 
 Goals: CompTIA A+ certificate, Deskside Support/Helpdesk Job, System Admin Job
 
